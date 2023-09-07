@@ -1,5 +1,5 @@
 #include <stdio.h>
-//Leitura e Impressão de Dados
+//Leitura e Impressão de Numeros Inteiros
     void main() {
 
     int x;
